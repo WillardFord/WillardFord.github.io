@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Completed internship at the Broad Institute on speeding up population scale genomic algorithms.
+Presented algorithmic optimizations to novel long-read variant caller to UCSD Summer Research Conference (UCSD SRC).
