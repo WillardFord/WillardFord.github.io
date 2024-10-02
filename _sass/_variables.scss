@@ -32,7 +32,7 @@ $black-color: #000000 !default;
 
 // Theme colors
 
-$code-bg-color-light: rgba($purple-color, 0.05);
+$code-bg-color-light: $grey-color-light;//rgba($purple-color, 0.05);
 $code-bg-color-dark: #2c3237 !default;
 
 // Font awesome location
@@ -48,3 +48,6 @@ $back-to-top-right: 30px;
 $back-to-top-diameter: 40px;
 $back-to-top-height: $back-to-top-diameter;
 $back-to-top-width: $back-to-top-diameter;
+
+// Custom Colors
+$blue-color-light: #ADD8E6
