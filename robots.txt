@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://WillardFord.github.io/al-folio/sitemap.xml
+Sitemap: https://WillardFord.github.io/sitemap.xml
