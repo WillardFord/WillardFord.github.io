@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented algorithmic optimizations to novel long-read variant caller to UCSD Summer Research Conference (UCSD SRC).
+Presented algorithmic optimizations to novel long-read variant caller to UCSD Summer Research Conference to bioinformatics faculty and students.

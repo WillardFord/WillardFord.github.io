@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be presenting my research poster on population scale, structual variant algorithms at ABRCMS 2024.
+I presented my Broad Summer Research Program Research on 'Fast structural variant merging at a population scale' as a poster at ABRCMS. At this conference I won a fully funded travel award and a Presentation Award in Computational Biology.
